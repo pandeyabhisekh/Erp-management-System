@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Business ERP Software - Inventory Management & Invoicing
 
 Welcome to my comprehensive MERN-based Business Software solution for efficient inventory management and invoicing. Our application provides a user-friendly interface for adding products to your inventory, creating invoices, managing customers, and generating professional invoices with ease. It operates in real-time, ensuring your data is always up to date.
@@ -79,3 +80,7 @@ We welcome contributions from the open-source community to improve and enhance o
 7. Be responsive to feedback and be willing to make necessary adjustments.
 
 I will review your contributions and merge them if they meet our quality standards. Thank you for your interest in improving our project!
+=======
+# Erp-management-System
+Erp managemnt system
+>>>>>>> 02763f74c24a186a386b27af22ac0be666dc2339
