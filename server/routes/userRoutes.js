@@ -11,6 +11,10 @@ const router = express.Router();
 router.post("/login", loginController);
 
 //MEthod - POST
+router.get("/", (req, res) => {
+  res.send("Users API is working!");
+});
+
 router.post("/register", registerController);
 
 module.exports = router;
